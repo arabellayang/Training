@@ -1,2 +1,3 @@
 # Training
-I love coffee:.
+
+Hello world.
